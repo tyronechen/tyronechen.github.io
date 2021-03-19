@@ -15,3 +15,5 @@ location: "Melbourne, Australia"
 Participants learn methods to increase the reproducibility of their data analyses. This is particularly important in the case of large analysis workflows, since they are fragile ecosystems of software tools, scripts and dependencies.
 
 This workshop was organised by [EMBL Australia](https://www.emblaustralia.org/).
+
+For more details, please refer to the [Australian BioCommons page](https://www.biocommons.org.au/trainers) or this publication: [Application of a bioinformatics training delivery method for reaching dispersed and distant trainees.](https://doi.org/10.1371/journal.pcbi.1008715)
