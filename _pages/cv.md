@@ -9,8 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-[Download CV here](http://tyronechen.github.io/files/CV_Chen.pdf).
-
 Education
 ======
 
