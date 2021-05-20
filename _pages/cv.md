@@ -16,7 +16,7 @@ Education
 
 **PhD Student (Computational Biology)**
 
-*2019 - 2022*
+*2019 - Present*
 
 - Project title: Identification of biological signals by combining distinct categories of biological data through machine learning.
 
@@ -34,6 +34,12 @@ Work experience
 ======
 
 ## Research
+
+### [Peter MacCallum Cancer Centre](https://www.petermac.org/) (Prof. Ben Hogan), Melbourne, Australia
+
+**Research Assistant (Bioinformatics)**
+
+*2021 - Present*
 
 ### [Bioinformatics lab](https://bioinformaticslab.erc.monash.edu/), [School of Biological Sciences](https://www.monash.edu/science/schools/biological-sciences), Faculty of Science, Monash University (Dr Sonika Tyagi), Melbourne, Australia
 
