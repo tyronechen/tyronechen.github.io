@@ -4,7 +4,7 @@ title: "Awards and honours"
 permalink: /awards/
 author_profile: true
 redirect_from:
-  - /portfoliio
+  - /portfolio
 ---
 
 {% include base_path %}
