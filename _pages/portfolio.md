@@ -1,8 +1,10 @@
 ---
 layout: archive
 title: "Awards and honours"
-permalink: /portfolio/
+permalink: /awards/
 author_profile: true
+redirect_from:
+  - /portfoliio
 ---
 
 {% include base_path %}
