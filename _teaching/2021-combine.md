@@ -8,6 +8,8 @@ date: 2021-01-01
 location: "Virtual, Australia"
 ---
 
+*2021 - 2022*
+
 Trained researchers how to write code and apply it to biological data as part of [COMBINE](https://www.combine.org.au/).
 
 This allows participants to explore, interpret and visualise data in a meaningful way.
