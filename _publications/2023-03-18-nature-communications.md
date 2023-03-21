@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/2023-03-18-nature-communications
 excerpt: 'The collaborative consortium took on the challenging task of producing and integrating multi-omics datasets generated from key clinical sepsis pathogens from Australia and globally, to support discovery and translational research to tackle the global challenge in the rise of antimicrobial resistance.'
 date: 2023-03-18
-venue: 'embo'
+venue: 'Nature Communications'
 paperurl: 'https://doi.org/10.1038/s41467-023-37200-w'
 citation: 'Antibiotic Resistant Pathogens Framework Data Initiative consortium; Integrative omics identifies conserved and pathogen-specific responses of sepsis-causing bacteria; Nature Communications 14, 1530 (2023). DOI: https://doi.org/10.1038/s41467-023-37200-w'
 ---
