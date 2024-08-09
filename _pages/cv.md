@@ -16,9 +16,9 @@ Education
 
 **PhD Student (Computational Biology)**
 
-*2019 - Present*
+*2019 - 2024*
 
-- Project title: Identification of biological signals by combining distinct categories of biological data through machine learning.
+- Project title: [A machine learning framework to reveal systems-level biological signatures by integrating molecular signatures from regulatory and functional multi-omics data.](https://doi.org/10.26180/25764069.v1)
 
 ## [Australian National University](https://biology.anu.edu.au/), Canberra, Australia
 
